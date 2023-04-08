@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hi, there 👋
+I'm Hasan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀
+🔭 I’m currently working on johsan32
 
+🌱 I’m currently learning VS, HTML5, CSS3, C++, React, JS and GitHub
 
-## 🌐 Socials:
+❓ Ask me about anything related to hasanulusoy78@hotmail.com
+
+⚡ Fun fact: I use tabs over spaces https://reactjs.org/ https://www.w3schools.com/css/
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@hsnulusoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan-ulusoy-react) 
 
 # 💻 Tech Stack:
